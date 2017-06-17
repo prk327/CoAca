@@ -1,1 +1,8 @@
-{"language": "python"}
+{
+  "language": "python",
+  "group": "stable",
+  "dist": "precise",
+  "os": "linux"
+}
+
+
